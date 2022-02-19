@@ -2,6 +2,8 @@ try {
   const cacheName = 'weddingapp';
   const staticAssets = [
     '/index.html',
+    '/index.js',
+    '/app.js',
     '/manifest.json',
     '/css/index.css',
     '/android-chrome-192x192.png',
